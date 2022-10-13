@@ -10,6 +10,12 @@ export default function App() {
       <Title />
       <Search />
       <CurrentWeather />
+      <p>
+        <a href="https://github.com/ashcnaylor/weather-react" target="_blank">
+          Open Source Code
+        </a>
+        by Ash Naylor.
+      </p>
     </div>
   );
 }
