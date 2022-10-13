@@ -11,7 +11,7 @@ export default function App() {
       <Search />
       <CurrentWeather />
       <p>
-        <a href="https://github.com/ashcnaylor/weather-react" target="_blank">
+        <a href="https://github.com/ashcnaylor/weather-react">
           Open Source Code
         </a>
         by Ash Naylor.
